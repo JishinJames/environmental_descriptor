@@ -18,7 +18,7 @@ We use only use a Raspberry Pi 3 Model B for the hardware, along with PiCamera R
 
 Note: You'll require the Python 3 editions of the libraries, which can be installed on the raspberry pi either by:
 
-#+BEGIN_SRC sh
+#+BEGIN_SRC s
 sudo pip3 install picamera
 #+END_SRC
 
